@@ -7,7 +7,7 @@
 # ❄️ Frost Bot
 
 <p align="center">
-  <img src="https://files.catbox.moe/xhtqm5.png" alt="Thumbnail" />
+  <img src="https://files.catbox.moe/zk6ok2.png" alt="Thumbnail" />
 </p>
 
 
