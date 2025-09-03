@@ -3,12 +3,14 @@
 
 
 
-````markdown
+
 # ❄️ Frost Bot
 
 <p align="center">
   <img src="https://files.catbox.moe/xhtqm5.png" alt="Thumbnail" />
 </p>
+
+````markdown
 ---
 
 ## 🤖 Présentation
