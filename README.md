@@ -114,8 +114,4 @@ Utilise un fichier `.env` (comme montré ci-dessus). Tu peux inclure un fichier 
 Développé par **KINGFROST**
 ⭐ N’hésite pas à donner une étoile au repo si Frost Bot t’a plu !
 
-```
 
----
-
-```
