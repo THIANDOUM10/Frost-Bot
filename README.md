@@ -105,8 +105,8 @@ Frost-Bot/
 
 ## 🔐 Sécurité
 
-⚠️ **Ne mets jamais ton token Discord en clair dans `start.py` ni dans ton repo GitHub.**
-Utilise un fichier `.env` (comme montré ci-dessus). Tu peux inclure un fichier `.env.example` pour montrer la structure sans exposer ton vrai token.
+⚠️ **Ne mets jamais ton token Discord en clair dans `start.py` ni dans un repo GitHub.**
+Utilise un fichier `.env` (comme montré ci-dessus).
 
 ---
 
