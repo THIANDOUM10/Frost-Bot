@@ -10,7 +10,7 @@
   <img src="https://files.catbox.moe/xhtqm5.png" alt="Thumbnail" />
 </p>
 
-````markdown
+
 ---
 
 ## 🤖 Présentation
@@ -52,7 +52,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 - `!menu` → menu interactif avec toutes les commandes 📜  
 
 
-````
+
 ## 🚀 Installation
 
 1. Clone le dépôt :
