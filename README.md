@@ -67,7 +67,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
    ```bash
    python -m venv .venv
    source venv/bin/activate   # Linux / macOS
-   .\venv\Scripts\Activate      # Windows
+   .\.venv\Scripts\Activate      # Windows
 
    pip install -r requirements.txt
    ```
