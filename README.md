@@ -50,7 +50,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 - `!botinfo` → infos sur Frost Bot ❄️  
 - `!menu` → menu interactif avec toutes les commandes 📜  
 
----
+
 
 ## 🚀 Installation
 
