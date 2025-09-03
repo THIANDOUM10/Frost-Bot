@@ -58,8 +58,8 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 1. Clone le dépôt :
 
    ```bash
-   git clone https://github.com/TON-USER/Frost-Bot.git
-   cd Frost-Bot
+   git clone https://github.com/THIANDOUM10/Frost-Bot-discord.git
+   cd Frost-Bot-discord
 
 
 2. Crée un environnement virtuel et installe les dépendances :
