@@ -52,7 +52,7 @@ class Menu(commands.Cog):
 
             elif select.values[0] == "info":
                 cmds = [
-                    "`!ping` 🏓", "`!menu` 📜"
+                    "`!ping` 🏓", "`!botinfo` 📜"
                 ]
                 embed = discord.Embed(title="ℹ️ Infos / Utilitaires", description="\n".join(cmds), color=discord.Color.blurple())
 
@@ -66,3 +66,4 @@ class Menu(commands.Cog):
 
 async def setup(bot):
     await bot.add_cog(Menu(bot))
+
