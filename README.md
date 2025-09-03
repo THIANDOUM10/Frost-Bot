@@ -65,7 +65,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 2. Crée un environnement virtuel et installe les dépendances :
 
    ```bash
-   python -m venv venv
+   python -m venv .venv
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
 
