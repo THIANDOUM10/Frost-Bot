@@ -6,10 +6,9 @@
 ````markdown
 # ❄️ Frost Bot
 
-![Discord](https://img.shields.io/badge/Discord-Bot-blue?style=for-the-badge&logo=discord)
-![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+<p align="center">
+  <img src="https://files.catbox.moe/xhtqm5.png" alt="Thumbnail" />
+</p>
 ---
 
 ## 🤖 Présentation
