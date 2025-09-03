@@ -51,7 +51,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 - `!menu` → menu interactif avec toutes les commandes 📜  
 
 
-
+````
 ## 🚀 Installation
 
 1. Clone le dépôt :
@@ -59,7 +59,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
    ```bash
    git clone https://github.com/TON-USER/Frost-Bot.git
    cd Frost-Bot
-````
+
 
 2. Crée un environnement virtuel et installe les dépendances :
 
