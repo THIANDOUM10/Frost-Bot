@@ -17,6 +17,7 @@
 **Frost Bot** est un bot Discord développé par **KINGFROST** pour profiter pleinement de Discord 🚀.  
 Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modération** dans une expérience fluide et stylisée ❄️.
 
+Le lien de Frost Bot Officiel: https://discord.com/oauth2/authorize?client_id=1411802589481275392
 ---
 
 ## ✨ Fonctionnalités principales
@@ -53,7 +54,7 @@ Il allie **fun**, **jeux**, **interactions sociales**, et **outils de modératio
 
 
 
-## 🚀 Installation
+## 🚀 Installation sur un bot personnel
 
 1. Clone le dépôt :
 
