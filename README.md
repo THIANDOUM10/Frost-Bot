@@ -67,7 +67,7 @@ Le lien de Frost Bot Officiel: https://discord.com/oauth2/authorize?client_id=14
 
    ```bash
    python -m venv .venv
-   source venv/bin/activate   # Linux / macOS
+   source .venv/bin/activate   # Linux / macOS
    .\.venv\Scripts\Activate      # Windows
 
    pip install -r requirements.txt
