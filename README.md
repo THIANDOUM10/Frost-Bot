@@ -116,4 +116,3 @@ Utilise un fichier `.env` (comme montré ci-dessus).
 Développé par **KINGFROST**
 ⭐ N’hésite pas à donner une étoile au repo si Frost Bot t’a plu !
 
-Le lien de Frost Bot Officiel: https://discord.com/oauth2/authorize?client_id=1411802589481275392
